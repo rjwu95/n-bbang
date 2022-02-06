@@ -1,0 +1,8 @@
+.navbar-light .navbar-brand {
+  font-size: 30px;
+  color: #2AC1BC;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: #2AC1BC;
+}
